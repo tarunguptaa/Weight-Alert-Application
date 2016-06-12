@@ -47,6 +47,7 @@
 			<groupId>org.easyrules</groupId>
 			<artifactId>easyrules-spring</artifactId>
 			<version>2.2.0</version>
+			
 		</dependency>
 	</dependencies>
 </project>
